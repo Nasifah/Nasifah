@@ -22,7 +22,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Budding Fullstack Developer, Proficient Content Creator, and Virtual Business Manager
 ---------------------------------------------------------------------------------------
 
-I am an undergraduate student of Chemical Engineering, a Content Creator, Website Developer, and a young girl greatly enjoying her explanation of life. Whenever I set my mind to something, I don't mind spending all the time in the world until I achieve it. During my free time, I am mostly trying to improve on my Digital Skills, Soft Skills, and personal Development. I read novels once in a while too. I love Children a lot, due to their inquisitive nature and hope to have a foundation for them soon.
+I am an undergraduate student of Chemical Engineering, a Content Creator, Website Developer, and a young girl greatly enjoying her exploration of life. 
+
+Whenever I set my mind to something, I don't mind spending all the time in the world until I achieve it. During my free time, I am mostly trying to improve on my Digital Skills, Soft Skills, and personal Development. 
+I read novels once in a while too. 
+
+I love Children a lot, due to their inquisitive nature and hope to have a foundation for them soon.
 
 *   🌍  I'm based in lagos, Nigeria
 *   ✉️  You can contact me at [nasifahalalade@gmail.com](mailto:nasifahalalade@gmail.com)
