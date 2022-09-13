@@ -31,7 +31,7 @@ I read novels once in a while too.
 I love Children a lot, due to their inquisitive nature and hope to have a foundation for them soon.
 
 *   🌍  I'm based in lagos, Nigeria
-*   🗂️  See my works at [PORTFOLIO](https://drive.google.com/drive/folders/1USNMlAxvgZqZI6dkK8b2_MPozQplDS2v)
+*   🗂️  Check out what I have worked on at [PORTFOLIO](https://drive.google.com/drive/folders/1USNMlAxvgZqZI6dkK8b2_MPozQplDS2v)
 *   ✉️  You can contact me at [nasifahalalade@gmail.com](mailto:nasifahalalade@gmail.com)
 *   🧠  I'm learning JavaScript, Python, Django
 *   🤝  I'm open to collaborating on Full Stack Development, Content Creation, and Virtual Business Management
