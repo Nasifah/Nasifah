@@ -31,12 +31,13 @@ I read novels once in a while too.
 I love Children a lot, due to their inquisitive nature and hope to have a foundation for them soon.
 
 *   🌍  I'm based in lagos, Nigeria
+*   👩🏻‍💻  I’m currently working on [Animation Library](https://anima95.pythonanywhere.com/)
 *   🗂️  Check out what I have worked on at [PORTFOLIO](https://drive.google.com/drive/folders/1USNMlAxvgZqZI6dkK8b2_MPozQplDS2v)
 *   ✉️  You can contact me at [nasifahalalade@gmail.com](mailto:nasifahalalade@gmail.com)
 *   🧠  I'm learning JavaScript, Python, Django
 *   🤝  I'm open to collaborating on Full Stack Development, Content Creation, and Virtual Business Management
 *   ⚡  I have a bug in my system 😩 it's called OVER-DEDICATION 
-*   😂   I am a Lazy Baker 
+*   😂  I am a Lazy Baker 
 ### Skills<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
